@@ -7,3 +7,4 @@ quinto commit
 test_rebase 1
 test_rebase 2
 commit 1 to test rebase
+commit 2 to test rebase
